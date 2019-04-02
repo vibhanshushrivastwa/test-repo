@@ -9,9 +9,9 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
-Github Repo | Repo |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/vibhanshushrivastwa/test-repo/blob/master/getting%20and%20cleaning%20data%20project/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/vibhanshushrivastwa/test-repo/blob/master/getting%20and%20cleaning%20data%20project/Small_data.txt"tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/vibhanshushrivastwa/test-repo "Click to go to Repo")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/vibhanshushrivastwa/test-repo/blob/master/getting%20and%20cleaning%20data%20project/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/vibhanshushrivastwa/test-repo/blob/master/getting%20and%20cleaning%20data%20project/Readme.md"README.md")
 
